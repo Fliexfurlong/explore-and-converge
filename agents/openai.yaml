@@ -1,0 +1,5 @@
+interface:
+  display_name: "Explore and Converge"
+  short_description: "Explore different paths and converge using evidence."
+policy:
+  allow_implicit_invocation: false
